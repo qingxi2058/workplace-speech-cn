@@ -1,6 +1,6 @@
 ---
 name: workplace-speech-cn
-description: Use when a Chinese-speaking user needs direct workplace wording for negotiation, pushback, boundary-setting, clarification, conflict handling, or exit conversations such as asking for a raise, refusing unreasonable work, handling blame, responding to criticism, or asking for lawful compensation.
+description: Use when 用户需要中文职场对话话术，用于谈加薪、拒绝不合理要求、应对甩锅、被批评、边界沟通、离职赔偿，或其他需要把真话说得得体又有边界的场景。
 ---
 
 # 打工人嘴替
