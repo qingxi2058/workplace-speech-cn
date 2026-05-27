@@ -48,6 +48,7 @@ npx skills add qingxi2058/workplace-speech-cn
 
 - [SKILL.md](./SKILL.md)：正式 skill 主体
 - [JT-SCALE.md](./JT-SCALE.md)：视频可直接讲的“打工人 JT Scale”
+- [xiaohongshu.md](./xiaohongshu.md)：可直接发布的小红书系列内容
 
 ## License
 
